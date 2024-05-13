@@ -1,0 +1,44 @@
+[
+  {
+    "name": "mywallet",
+    "mnemonic": "marine sheriff snow auto that poem please palace book conduct clown toilet",
+    "privateKey": "5bceff6ca083ec550b93c1fa46585bb19317f71ec3b0a0b1445345301345416d",
+    "publicKey": "027d69ac316ebf8e1e4e3afc2feb4ea32b9c5d081c9c0f61c40a05b19583c42c82",
+    "addresses": []
+  },
+  {
+    "name": "mywallet",
+    "mnemonic": "want enroll bulb spray decrease three snake lounge loop cousin fat wage",
+    "privateKey": "36a90c71749a3b0632d63b020d40a8479ed40fb21f83edf94a720c041e82dc49",
+    "publicKey": "026492ff2dfa935386c851b9fdb61fc8c63a6d223e1e011034bf7a1efbe59cfcff",
+    "addresses": []
+  },
+  {
+    "name": "mywallet",
+    "mnemonic": "convince curve grain gun achieve hover salute mandate either wall alley bird",
+    "privateKey": "6da89b32b511060f879788706302b6ea84dd17c89ce0e5b0997959e7c78afe91",
+    "publicKey": "02a71b683ce4a8011794abdb533ed75f69c52b98854ca6d6f8edda506907ac6c4b",
+    "addresses": []
+  },
+  {
+    "name": "mywallet",
+    "mnemonic": "distance denial mixed quality wonder cram legend heart tomorrow around pitch flock",
+    "privateKey": "a8fa9c6a62a213aac1e173ece6c1c6204419b83eabdafcd487f43e2fa9e66a20",
+    "publicKey": "024d9c5729b0815b4d4c82f5776c47077bb954cecf8f2f6fb3067022621b5ea9bd",
+    "addresses": []
+  },
+  {
+    "name": "mywallet",
+    "mnemonic": "pig office torch rebuild slow cat stove exercise emerge push caught aim",
+    "privateKey": "6b514bd44b2e57741a337cbe3cc4ce220abb699eabeb4328052a2fb99112ef76",
+    "publicKey": "03e07387b0b6620d73c54b749f69a98b2930751d90e794ae6d742f817971ee59b4",
+    "addresses": []
+  },
+  {
+    "name": "mywallet",
+    "mnemonic": "cliff run narrow width link apple beef face old mixed abstract scan",
+    "privateKey": "92dc8fdb1f2cfadbc358ce2e5452c0b1b9747e7a2f19e9a0e03ed1293e374b98",
+    "publicKey": "027e2c2f1fece96556d5c29cd5d91c1ee5198d1841010cfecca27ceb7aa7b51c2e",
+    "addresses": []
+  }
+]
